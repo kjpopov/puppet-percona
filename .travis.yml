@@ -1,6 +1,5 @@
 language: ruby
 rvm:
-  - 1.9.3
-  - ree
-install: gem install puppet rspec-puppet rake
-
+  - 2.0.0
+install: gem install puppet rspec-puppet rake --no-ri --no-rdoc
+install: rspec-puppet-init
