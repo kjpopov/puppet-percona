@@ -1,7 +1,6 @@
-[![Build Status](https://travis-ci.org/kjpopov/puppet-percona.svg?branch=master)](https://travis-ci.org/kjpopov/puppet-percona)
-
 puppet-percona
 ======
+[![Build Status](https://travis-ci.org/kjpopov/puppet-percona.svg?branch=master)](https://travis-ci.org/kjpopov/puppet-percona)
 
 Puppet module for configuring Percona 1master + 1slave instace.
 
