@@ -1,3 +1,5 @@
+[![Build Status](https://travis-ci.org/kjpopov/puppet-percona.svg?branch=master)](https://travis-ci.org/kjpopov/puppet-percona)
+
 puppet-percona
 ======
 
